@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hans Guitar</string>
+    <string name="guitars_name">Guitar Name</string>
+    <string name="detail">Detail</string>
+    <string name="buy">Buy</string>
+    <string name="data">Data</string>
+    <string name="about">About</string>
+</resources>
